@@ -12,4 +12,4 @@ My research interests lie in social network and data analysis. I am especially i
 
 ---
 
-![Curriculum Vitae](https://imgur.com/JAMgCe8)
+![Curriculum Vitae](https://i.imgur.com/JAMgCe8.png)
