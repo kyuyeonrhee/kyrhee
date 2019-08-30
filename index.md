@@ -13,6 +13,6 @@ My research interests lie in social network and data analysis. I am especially i
 ---
 
 
-<center><a href="https://dullyshin.github.io/2018/08/30/HTML-imgLink/"> <img src="https://i.imgur.com/JAMgCe8.png" width="33%" height="33% title="Curriculum_Kyuyeon" /></a></center>
+<center><a href="https://dullyshin.github.io/2018/08/30/HTML-imgLink/"><img src="https://i.imgur.com/JAMgCe8.png" width="33%" height="33%" title="Curriculum_Kyuyeon" /></a></center>
 
 <center><a href="https://dullyshin.github.io/2018/08/30/HTML-imgLink/"><img src="https://i.imgur.com/GI7tanQ.png" width="33%" height="33%" title="Research_Kyuyeon" /></a></center>
