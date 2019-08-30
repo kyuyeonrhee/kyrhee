@@ -11,3 +11,5 @@ I am a graduate student in the department of Management Information Systems, Bus
 My research interests lie in social network and data analysis. I am especially interested in the role of content, platform, or system design toward user behavior.
 
 ---
+
+![Curriculum Vitae](https://imgur.com/JAMgCe8)
