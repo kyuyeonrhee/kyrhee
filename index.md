@@ -12,6 +12,4 @@ My research interests lie in social network and data analysis. I am especially i
 
 ---
 
-![Curriculum Vitae!](https://i.imgur.com/JAMgCe8.png)(https://gist.github.com/ninanung/2b81a5db946c26c98c573e3662a92b62)
-
-<a href="https://dullyshin.github.io/2018/08/30/HTML-imgLink/" height="5" width="10"> <img src="https://i.imgur.com/JAMgCe8.png" title="source: imgur.com" /></a>
+<a href="https://dullyshin.github.io/2018/08/30/HTML-imgLink/"> <img src="https://i.imgur.com/JAMgCe8.png" title="source: imgur.com" /></a>
