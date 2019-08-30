@@ -13,3 +13,10 @@ My research interests lie in social network and data analysis. I am especially i
 ---
 
 ![Curriculum Vitae!](https://i.imgur.com/JAMgCe8.png)
+
+bbcode
+[img]https://i.imgur.com/JAMgCe8.png[/img]
+linked bbcode
+[url=https://imgur.com/JAMgCe8][img]http://i.imgur.com/JAMgCe8.png[/img][/url]
+html
+<a href="https://imgur.com/JAMgCe8"><img src="https://i.imgur.com/JAMgCe8.png" title="source: imgur.com" /></a>
