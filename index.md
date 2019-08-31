@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Kyuyeon Rhee
-tagline: Graduate Student of Management Information Systems
-description: My website
+tagline: Kyuyeon Rhee
+description: Graduate Student of Management Information Systems
 ---
 
 I am a graduate student in the department of Management Information Systems, Business School at Seoul National University.
