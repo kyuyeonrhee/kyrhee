@@ -2,7 +2,6 @@
 layout: page
 title: Inspiring Papers
 description: I find these papers inspiring, and I'm sure these papers can give motivation to students like me.
----
 
 I find these papers inspiring, and I'm sure these papers can give motivation to students like me.
 
