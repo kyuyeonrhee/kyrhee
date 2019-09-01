@@ -4,9 +4,6 @@ title: Kyuyeon Rhee
 tagline: Graduate Student of Management Information Systems
 description: Graduate Student of Management Information Systems
 ---
-<br>
-<br>
-<br>
 
 I am a graduate student in the Department of Management Information Systems, Business School at Seoul National University.
 
