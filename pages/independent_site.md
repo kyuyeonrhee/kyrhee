@@ -4,12 +4,8 @@ title: Inspiring Papers
 description: I find these papers inspiring, and I'm sure these papers can give motivation to students like me.
 ---
 <br>
-<br>
-<br>
-
 I find these papers inspiring, and I'm sure these papers can give motivation to students like me.<br>
-These are some of my favorite lines. You can access the papers by clicking the images.
-<br>
+These are some of my favorite lines. You can access the papers by clicking the images.<br>
 <br>
 <br>
 
