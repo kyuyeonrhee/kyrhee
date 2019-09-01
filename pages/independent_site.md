@@ -7,7 +7,7 @@ description: I find these papers inspiring, and I'm sure these papers can give m
 I find these papers inspiring, and I'm sure these papers can give motivation to students like me.<br>
 These are some of my favorite lines. You can access the papers by clicking the images.
 
-
+... the main intellectual advances will be made by men and computers working together in intimate association (Licklider 1960)
 
 #### Human Computer Interaction
 
