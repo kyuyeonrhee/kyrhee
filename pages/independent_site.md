@@ -6,8 +6,6 @@ description: I find these papers inspiring, and I'm sure these papers can give m
 I find these papers inspiring, and I'm sure these papers can give motivation to students like me.<br>
 These are some of my favorite lines. You can access the papers by clicking the images.<br>
 <br>
-<br>
-
 
 #### Human Computer Interaction
 <br>
