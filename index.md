@@ -7,7 +7,6 @@ description: Graduate Student of Management Information Systems
 
 I am a graduate student in the Department of Management Information Systems, Business School at Seoul National University.
 
-My research interests lie in social media and human-computer interaction. I am especially interested in the role of content, platform, and system design toward user behavior.
 
 ---
 
