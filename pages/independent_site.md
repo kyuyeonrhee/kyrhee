@@ -1,15 +1,6 @@
 ---
 layout: page
 title: Inspiring Papers
-description: I find these papers inspiring, and I'm sure these papers can give motivation to students like me.
+description: None
 ---
-I find these papers inspiring, and I'm sure these papers can give motivation to students like me.<br>
-<br>
-
-#### Human Computer Interaction
-- Jain, H., Padmanabhan, B., Pavlou, P. A., & Santanam, R. T. (Eds.). (2018). [Call for Papers—Special Issue of Information Systems Research—Humans, Algorithms, and Augmented Intelligence: The Future of Work, Organizations, and Society. ](https://pubsonline.informs.org/doi/pdf/10.1287/isre.2018.0784)Information Systems Research, 29(1), 250-251.
-<br>
-
-  - "... the main intellectual advances will be made by men and computers working together in intimiate association." (Licklider 1960)
-  - HCI focused on a design approach which emphasizes interpretation, human behavior, and experimentation.
-  - "Englightened trial and error outperforms the planning of flawless intellect." (David Kelley)
+N/A
