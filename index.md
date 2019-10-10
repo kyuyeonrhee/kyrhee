@@ -10,6 +10,6 @@ I am a graduate student in the Department of Management Information Systems, Bus
 
 ---
 
-<a href="https://kyuyeonrhee.github.io/kyrhee/pages/independent_site.html"><img src="https://i.imgur.com/TEB3roO.png" width="30%" height="30%" title="Kyuyeon_cv" /></a>
+<a href="https://kyuyeonrhee.github.io/kyrhee/pages/project_site.html"><img src="https://i.imgur.com/TEB3roO.png" width="30%" height="30%" title="Kyuyeon_cv" /></a>
 <a href="https://kyuyeonrhee.github.io/kyrhee/pages/project_site.html"><img src="https://i.imgur.com/lgUJtb4.png" width="30%" height="30%" title="Kyuyeon_research" /></a>
 <a href="https://kyuyeonrhee.github.io/kyrhee/pages/project_site.html"><img src="https://i.imgur.com/dUkwvmh.png" width="30%" height="30%" title="Kyuyeon_interests" /></a>
