@@ -10,6 +10,7 @@ I am a graduate student majoring in Business Administration at Seoul National Un
 
 My research interests lie in social media, user-generated content, and analyzing unstructured data. In my master's thesis, I examined the relationship between the content of video reviews and their popularity on YouTube by conducting sentiment analysis. I found that the amount of the sentiment embedded in the reviewer's speech contributes to the popularity of a video review.
 
+For more information, here is my CV.
 
 ----
 
