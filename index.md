@@ -14,11 +14,16 @@ For more information, here is my CV.
 
 ----
 
-<a href="https://kyuyeonrhee.github.io/kyrhee/pages/project_site.html"><img src="https://i.imgur.com/TEB3roO.png" width="30%" height="30%" title="Kyuyeon_cv" /></a>
-<a href="https://kyuyeonrhee.github.io/kyrhee/pages/project_site.html"><img src="https://i.imgur.com/lgUJtb4.png" width="30%" height="30%" title="Kyuyeon_research" /></a>
-<a href="https://kyuyeonrhee.github.io/kyrhee/pages/project_site.html"><img src="https://i.imgur.com/dUkwvmh.png" width="30%" height="30%" title="Kyuyeon_interests" /></a>
+<a href="https://kyuyeonrhee.github.io/kyrhee/pages/project_site.html"><img src="https://i.imgur.com/TEB3roO.png" width="30%" height="33%" title="Kyuyeon_cv" /></a>
+<a href="https://kyuyeonrhee.github.io/kyrhee/pages/project_site.html"><img src="https://i.imgur.com/lgUJtb4.png" width="30%" height="33%" title="Kyuyeon_research" /></a>
+<a href="https://kyuyeonrhee.github.io/kyrhee/pages/project_site.html"><img src="https://i.imgur.com/dUkwvmh.png" width="30%" height="33%" title="Kyuyeon_interests" /></a>
+
 
 
 ----
+
+
 [Instagram](https://www.instagram.com/kkyyeeeeee/) | [LinkedIn](https://www.linkedin.com/in/kyuyeon-rhee-69a22b133/?originalSubdomain=kr) | [Github](https://github.com/kyuyeonrhee)
+
+
 ----
