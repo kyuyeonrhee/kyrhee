@@ -26,6 +26,3 @@ For more information, here is my CV.<br><br>
 [Instagram](https://www.instagram.com/kkyyeeeeee/)<br>
 [LinkedIn](https://www.linkedin.com/in/kyuyeon-rhee-69a22b133/?originalSubdomain=kr)<br>
 [Github](https://github.com/kyuyeonrhee)<br>
-
-
-----
