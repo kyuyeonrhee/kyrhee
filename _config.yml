@@ -8,9 +8,9 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-# title : Kyuyeon Rhee
+title : Personal Website
 author : Personal Website
-  # name : Kyuyeon Rhee
+  name : Personal Website
   email : ky.rhee@snu.ac.kr
   github : kyuyeonrhee
 
