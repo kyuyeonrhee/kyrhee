@@ -9,7 +9,6 @@ title: Kyuyeon Rhee
 <br>
 <br>
 <br>
-## Kyuyeon Rhee
 <br>
 Management Information Systems Department <br>
 School of Business <br>
