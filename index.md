@@ -6,9 +6,14 @@ description: Graduate Student of Management Information Systems
 ---
 
 ### Academic
-I am a graduate student majoring in [Business Admninistration](https://cba.snu.ac.kr/en) at <b>Seoul National University</b>. I am planning to graduate and receive my master's at February 2020, with a focus on [Information Systems](https://cba.snu.ac.kr/en/faculty). <a href="https://imgur.com/LtSEgWH"><img src="https://i.imgur.com/LtSEgWH.png" title="source: imgur.com" /></a>
+I am a graduate student majoring in [Business Admninistration](https://cba.snu.ac.kr/en) at <b>Seoul National University</b>. I am planning to graduate and receive my master's at February 2020, with a focus on [Information Systems](https://cba.snu.ac.kr/en/faculty). <a href="https://imgur.com/LtSEgWH"><img src="https://i.imgur.com/LtSEgWHs.png" title="source: imgur.com" width = "25%", height = "25%", align = "right" /></a>
 
-I received my Bachelor of [Business Administration](https://biz.hanyang.ac.kr/en/) at <b>Hanyang University</b> at Seoul. <a href="https://imgur.com/InjDfpq"><img src="https://i.imgur.com/InjDfpq.png" title="source: imgur.com" /></a>
+I received my Bachelor of [Business Administration](https://biz.hanyang.ac.kr/en/) at <b>Hanyang University</b> at Seoul. <a href="https://imgur.com/InjDfpq"><img src="https://i.imgur.com/InjDfpqs.png" title="source: imgur.com" width = "25%", height = "25%", align="right" /></a>
+
+### research
+I am interested in analyzing unstructured data and conducting empirical research. My interests lie in social media and healthcare data.
+
+
 
 <!-- I am a graduate student majoring in Business Administration at Seoul National University. I am planning to graduate and receive my master's at February 2020, with a focus on Information Systems.<br><br> -->
 
