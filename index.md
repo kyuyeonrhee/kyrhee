@@ -6,12 +6,13 @@ description: Graduate Student of Management Information Systems
 ---
 
 ### Academic
-<a href="https://imgur.com/LtSEgWH"><img src="https://i.imgur.com/LtSEgWHs.png" style = "float: right; margin-left: 20px; margin-bottom: 20px; width: 100px; height: 100px;" title="source: imgur.com" /></a> I am a graduate student majoring in [Business Admninistration](https://cba.snu.ac.kr/en) at <b>Seoul National University</b>. I am planning to graduate and receive my master's at February 2020, with a focus on [Information Systems](https://cba.snu.ac.kr/en/faculty).
+
+<a href="https://imgur.com/zTHpRfT"><img src="https://i.imgur.com/zTHpRfT.jpg" style = "float: right; margin-left: 20px; margin-bottom: 20px; width: 100px; height: 100px;" title="source: imgur.com" /></a> I am a graduate student majoring in [Business Admninistration](https://cba.snu.ac.kr/en) at <b>Seoul National University</b>. I am planning to graduate and receive my master's at February 2020, with a focus on [Information Systems](https://cba.snu.ac.kr/en/faculty).
 
 <br>
 <br>
-
-  
+<br>
+<br>
 
 <a href="https://imgur.com/InjDfpq"><img src="https://i.imgur.com/InjDfpq.png" style = "float: right; margin-left: 20px; margin-bottom: 20px; width: 100px; height: 100px" title="source: imgur.com" /></a> I received my Bachelor of [Business Administration](https://biz.hanyang.ac.kr/en/) at <b>Hanyang University</b> at Seoul.
 
