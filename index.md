@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Personal Website
+title: Kyuyeon Rhee
 <!-- tagline: Graduate Student of Management Information Systems -->
 <!-- description: Graduate Student of Management Information Systems -->
 ---
