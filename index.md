@@ -12,7 +12,6 @@ I received my Bachelor of [Business Administration](https://biz.hanyang.ac.kr/en
 
 
 
-
 ### Research
 I am interested in analyzing unstructured data and conducting empirical research. My interests lie in social media and healthcare data.
 
@@ -28,12 +27,10 @@ I was a teaching assistant in two undergraduate courses, two graduate courses, a
 - Information Systems Development Seminar
 
 
-<!-- I am a graduate student majoring in Business Administration at Seoul National University. I am planning to graduate and receive my master's at February 2020, with a focus on Information Systems.<br><br> -->
-
-
-<!-- My research interests lie in social media, user-generated content, and analyzing unstructured data. In my master's thesis, I examined the relationship between the content of video reviews and their popularity on YouTube by conducting sentiment analysis. I found that the amount of the sentiment embedded in the reviewer's speech contributes to the popularity of a video review.<br><br> -->
-
 For more information, here is my [CV](https://kyuyeonrhee.github.io/kyrhee/pages/KyuyeonRhee_vitae.pdf).<br><br>
+
+
+<!-- Email: ky.rhee@snu.ac.kr -->
 
 ----
 
@@ -42,6 +39,11 @@ For more information, here is my [CV](https://kyuyeonrhee.github.io/kyrhee/pages
 <a href="https://kyuyeonrhee.github.io/kyrhee/pages/project_site.html"><img src="https://i.imgur.com/dUkwvmh.png" width="30%" height="33%" title="Kyuyeon_interests" /></a><br><br>
 
 
+
+<!-- I am a graduate student majoring in Business Administration at Seoul National University. I am planning to graduate and receive my master's at February 2020, with a focus on Information Systems.<br><br> -->
+
+
+<!-- My research interests lie in social media, user-generated content, and analyzing unstructured data. In my master's thesis, I examined the relationship between the content of video reviews and their popularity on YouTube by conducting sentiment analysis. I found that the amount of the sentiment embedded in the reviewer's speech contributes to the popularity of a video review.<br><br> -->
 
 ----
 
