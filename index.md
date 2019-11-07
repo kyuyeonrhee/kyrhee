@@ -12,7 +12,8 @@ I am a graduate student majoring in [Business Admninistration](https://cba.snu.a
 <br>
 
 
-I received my Bachelor of [Business Administration](https://biz.hanyang.ac.kr/en/) at <b>Hanyang University</b> at Seoul. <a href="https://imgur.com/InjDfpq"><img src="https://i.imgur.com/InjDfpqs.png" style = "float: right; margin-left: 20px; margin-bottom: 20px; width: 100px; height: 100px" title="source: imgur.com" /></a>
+
+I received my Bachelor of [Business Administration](https://biz.hanyang.ac.kr/en/) at <b>Hanyang University</b> at Seoul. <a href="https://imgur.com/Vx3Ue8m"><img src="https://i.imgur.com/Vx3Ue8ms.jpg" style = "float: right; margin-left: 20px; margin-bottom: 20px; width: 100px; height: 100px" title="source: imgur.com" /></a>
 
 <br>
 <br>
