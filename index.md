@@ -5,7 +5,7 @@ layout: page
 <!-- description: Graduate Student of Management Information Systems -->
 ---
 
-<a href="https://imgur.com/T54HFq4"><img src="https://i.imgur.com/T54HFq4.png" style = "float: left; margin-right: 50px; margin-bottom: 100px; width: 250px; height: 315px;" title="source: imgur.com" /></a>  
+<a href="https://imgur.com/T54HFq4"><img src="https://i.imgur.com/T54HFq4.png" style = "float: left; margin-right: 100px; margin-bottom: 100px; width: 250px; height: 315px;" title="source: imgur.com" /></a>  
 ## Kyuyeon Rhee
 Email: [ky.rhee@snu.ac.kr](ky.rhee@snu.ac.kr)
 <br>
