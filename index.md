@@ -1,21 +1,20 @@
 ---
 layout: page
-title: Kyuyeon Rhee
+title: Personal Website
 <!-- tagline: Graduate Student of Management Information Systems -->
 <!-- description: Graduate Student of Management Information Systems -->
 ---
 
-<a href="https://imgur.com/T54HFq4"><img src="https://i.imgur.com/T54HFq4.png" style = "float: left; margin-right: 100px; margin-bottom: 100px; width: 250px; height: 315px;" title="source: imgur.com" /></a>  
+<a href="https://imgur.com/T54HFq4"><img src="https://i.imgur.com/T54HFq4.png" style = "float: left; margin-right: 70px; margin-bottom: 100px; width: 250px; height: 315px;" title="source: imgur.com" /></a>  
 <br>
 <br>
 <br>
 ## Kyuyeon Rhee
 <br>
-<br>
+Management Information Systems Department
+School of Business
+Seoul National University
 Email: [ky.rhee@snu.ac.kr](ky.rhee@snu.ac.kr)
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
