@@ -5,6 +5,11 @@ tagline: Graduate Student of Management Information Systems
 description: Graduate Student of Management Information Systems
 ---
 
+<a href="https://imgur.com/T54HFq4"><img src="https://i.imgur.com/T54HFq4.png" style = "float: left; margin - right: 20px; margih-bottom: 100px; width: 250px; height: 315px;" title="source: imgur.com" /></a>  
+## Kyuyeon Rhee
+Email: ky.rhee@snu.ac.kr
+
+
 ### Academic
 <br>
 <br>
