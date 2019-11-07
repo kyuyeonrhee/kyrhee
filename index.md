@@ -33,7 +33,7 @@ Email: ky.rhee@snu.ac.kr
 ### Research
 <br>
 <br>
-I am interested in analyzing unstructured data and conducting empirical research. My interests lie in social media and healthcare data.
+I am interested in analyzing unstructured data and conducting empirical research. My interests lie in Social Media and Health Analytics.
 <br>
 <br>
 In my master's thesis, I examined the relationship between the content of video reviews and their popularity on YouTube by conducting sentiment analysis. My proceedings paper about the same subject has been accepted to [KrAIS](https://sites.google.com/site/kraisweb/2019-krais-research-workshop?authuser=0), a post-ICIS conference upcoming this December.
