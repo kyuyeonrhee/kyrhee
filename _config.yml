@@ -10,7 +10,7 @@ highlighter: rouge
 #
 # title : Kyuyeon Rhee
 author : Personal Website
-  name : Kyuyeon Rhee
+  # name : Kyuyeon Rhee
   email : ky.rhee@snu.ac.kr
   github : kyuyeonrhee
 
