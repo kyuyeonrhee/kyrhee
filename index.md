@@ -6,15 +6,19 @@ description: Graduate Student of Management Information Systems
 ---
 
 ### Academic
-I am a graduate student majoring in [Business Admninistration](https://cba.snu.ac.kr/en) at <b>Seoul National University</b>. I am planning to graduate and receive my master's at February 2020, with a focus on [Information Systems](https://cba.snu.ac.kr/en/faculty). <a href="https://imgur.com/LtSEgWH"><img src="https://i.imgur.com/LtSEgWHs.png" style = "float: right; margin-left: 20px; margin-bottom: 20px; width: 100px; height: 100px;" title="source: imgur.com" /></a>
+<a href="https://imgur.com/LtSEgWH"><img src="https://i.imgur.com/LtSEgWHs.png" style = "float: right; margin-left: 20px; margin-bottom: 20px; width: 100px; height: 100px;" title="source: imgur.com" /></a> I am a graduate student majoring in [Business Admninistration](https://cba.snu.ac.kr/en) at <b>Seoul National University</b>. I am planning to graduate and receive my master's at February 2020, with a focus on [Information Systems](https://cba.snu.ac.kr/en/faculty).
 
 <br>
 <br>
 
 
 
-I received my Bachelor of [Business Administration](https://biz.hanyang.ac.kr/en/) at <b>Hanyang University</b> at Seoul. <a href="https://imgur.com/Vx3Ue8m"><img src="https://i.imgur.com/Vx3Ue8ms.jpg" style = "float: right; margin-left: 20px; margin-bottom: 20px; width: 100px; height: 100px" title="source: imgur.com" /></a>
+<a href="https://imgur.com/Vx3Ue8m"><img src="https://i.imgur.com/Vx3Ue8ms.jpg" style = "float: right; margin-left: 20px; margin-bottom: 20px; width: 100px; height: 100px" title="source: imgur.com" /></a> I received my Bachelor of [Business Administration](https://biz.hanyang.ac.kr/en/) at <b>Hanyang University</b> at Seoul.
 
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 
@@ -27,6 +31,10 @@ In my master's thesis, I examined the relationship between the content of video 
 
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
 
 ### Teaching
@@ -37,6 +45,10 @@ I was a teaching assistant in two undergraduate courses, two graduate courses, a
 - Topics in Management Information Systems
 - Information Systems Development Seminar
 
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 
