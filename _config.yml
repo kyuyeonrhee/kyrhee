@@ -8,11 +8,11 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title: Kyuyeon Rhee
-author: Kyuyeon Rhee
-  name: Kyuyeon Rhee
-  email: ky.rhee@snu.ac.kr
-  github: kyuyeonrhee
+title : Kyuyeon Rhee
+author :
+  name : Kyuyeon Rhee
+  email : ky.rhee@snu.ac.kr
+  github : kyuyeonrhee
 
 
 # NOTE: Replacing this next line with your own URL
