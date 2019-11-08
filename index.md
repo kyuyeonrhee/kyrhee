@@ -6,48 +6,48 @@ title: Kyuyeon Rhee
 ---
 
 <a href="https://imgur.com/T54HFq4"><img src="https://i.imgur.com/T54HFq4.png" style = "float: left; margin-right: 70px; margin-bottom: 60px; width: 250px; height: 315px;" title="source: imgur.com" /></a>  
-<br>
-<br>
-<br>
-<br>
-Management Information Systems Department <br>
-School of Business <br>
-Seoul National University <br>
-Email: [ky.rhee@snu.ac.kr](ky.rhee@snu.ac.kr)
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<pre>
 
+
+
+
+Management Information Systems Department
+School of Business
+Seoul National University
+Email: [ky.rhee@snu.ac.kr](ky.rhee@snu.ac.kr)
+
+
+
+
+
+
+
+
+
+
+
+</pre>
 
 
 ### Academic
 <br>
 <br>
-<a href="https://imgur.com/zTHpRfT"><img src="https://i.imgur.com/zTHpRfT.jpg" style = "float: right; margin-left: 20px; margin-bottom: 20px; width: 100px; height: 100px;" title="source: imgur.com" /></a> I am a graduate student majoring in [Business Admninistration](https://cba.snu.ac.kr/en) at <b>Seoul National University</b>. I am planning to graduate and receive my master's at February 2020, with a focus on [Information Systems](https://cba.snu.ac.kr/en/faculty).
+<a href="https://imgur.com/zTHpRfT"><img src="https://i.imgur.com/zTHpRfT.jpg" style = "float: right; margin-left: 20px; margin-bottom: 20px; width: 100px; height: 100px;" title="source: imgur.com" /></a> I am a graduate student majoring in [Business Admninistration](https://cba.snu.ac.kr/en) at <b>Seoul National University</b>. I am planning to graduate and receive my Master's at February 2020, with a focus on [Information Systems](https://cba.snu.ac.kr/en/faculty).
+<pre>
 
-<br>
-<br>
-<br>
-<br>
 
+
+
+</pre>
 <a href="https://imgur.com/InjDfpq"><img src="https://i.imgur.com/InjDfpq.png" style = "float: right; margin-left: 20px; margin-bottom: 20px; width: 100px; height: 100px" title="source: imgur.com" /></a> I received my Bachelor of [Business Administration](https://biz.hanyang.ac.kr/en/) at <b>Hanyang University</b> at Seoul.
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<pre>
 
+
+
+
+
+</pre>
 
 ### Research
 <br>
@@ -57,14 +57,14 @@ I am interested in analyzing unstructured data and conducting empirical research
 <br>
 In my master's thesis, I examined the relationship between the content of video reviews and their popularity on YouTube by conducting sentiment analysis. My proceedings paper about the same subject has been accepted to [KrAIS](https://sites.google.com/site/kraisweb/2019-krais-research-workshop?authuser=0), a post-ICIS conference upcoming this December.
 
+<pre>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
+
+
+
+
+</pre>
 
 ### Teaching
 <br>
@@ -76,10 +76,12 @@ I was a teaching assistant in two undergraduate courses, two graduate courses, a
 - Topics in Management Information Systems
 - Information Systems Development Seminar
 
-<br>
-<br>
-<br>
-<br>
+<pre>
+
+
+
+
+</pre>
 
 
 For more information, here is my [CV](https://kyuyeonrhee.github.io/kyrhee/pages/KyuyeonRhee_vitae.pdf).<br><br>
