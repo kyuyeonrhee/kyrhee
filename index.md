@@ -11,7 +11,7 @@ title: Kyuyeon Rhee
 <br>
 <br>
 Management Information Systems Department <br>
-School of Business <br>
+Graduate School of Business <br>
 Seoul National University <br>
 Email: [ky.rhee@snu.ac.kr](ky.rhee@snu.ac.kr)
 <br>
