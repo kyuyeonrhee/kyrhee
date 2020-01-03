@@ -32,14 +32,14 @@ Email: [ky.rhee@snu.ac.kr](ky.rhee@snu.ac.kr)
 ### Academic
 <br>
 <br>
-<a href="https://imgur.com/zTHpRfT"><img src="https://i.imgur.com/zTHpRfT.jpg" style = "float: right; margin-left: 20px; margin-bottom: 20px; width: 100px; height: 100px;" title="source: imgur.com" /></a> I am a graduate student majoring in [Business Admninistration](https://cba.snu.ac.kr/en) at <b>Seoul National University</b>. I am planning to graduate and receive my Master's at February 2020, with a focus on [Information Systems](https://cba.snu.ac.kr/en/faculty).
+<a href="https://imgur.com/zTHpRfT"><img src="https://i.imgur.com/zTHpRfT.jpg" style = "float: right; margin-left: 20px; margin-bottom: 20px; width: 100px; height: 100px;" title="source: imgur.com" /></a> I am a graduate student majoring in [Business Admninistration](https://cba.snu.ac.kr/en) at <b>Seoul National University</b>. I am planning to graduate and receive my Master's degree in [Management Information Systems](https://cba.snu.ac.kr/en/faculty) at February 2020.
 
 <br>
 <br>
 <br>
 <br>
 
-<a href="https://imgur.com/InjDfpq"><img src="https://i.imgur.com/InjDfpq.png" style = "float: right; margin-left: 20px; margin-bottom: 20px; width: 100px; height: 100px" title="source: imgur.com" /></a> I received my Bachelor of [Business Administration](https://biz.hanyang.ac.kr/en/) at <b>Hanyang University</b> at Seoul.
+<a href="https://imgur.com/InjDfpq"><img src="https://i.imgur.com/InjDfpq.png" style = "float: right; margin-left: 20px; margin-bottom: 20px; width: 100px; height: 100px" title="source: imgur.com" /></a> I received my Bachelor of Science in [Business Administration](https://biz.hanyang.ac.kr/en/) at <b>Hanyang University</b> at Seoul.
 
 <br>
 <br>
@@ -52,10 +52,12 @@ Email: [ky.rhee@snu.ac.kr](ky.rhee@snu.ac.kr)
 ### Research
 <br>
 <br>
-I am interested in analyzing unstructured data and conducting empirical research. My interests lie in the field of Social Media and Health Analytics.
+I am interested in mining and analyzing unstructured data from social media channels. In my master's thesis, I examined the relationship between the content of video reviews and their popularity on YouTube by conducting sentiment analysis. My proceedings paper about the same subject has been accepted to [KrAIS](https://sites.google.com/site/kraisweb/2019-krais-research-workshop?authuser=0), a post-ICIS conference in December 2019.
+
+Recently, I am interested in health care communities. In my further research, I would like to identify effective design rules that drive user engagement in online community platforms.
 <br>
 <br>
-In my master's thesis, I examined the relationship between the content of video reviews and their popularity on YouTube by conducting sentiment analysis. My proceedings paper about the same subject has been accepted to [KrAIS](https://sites.google.com/site/kraisweb/2019-krais-research-workshop?authuser=0), a post-ICIS conference upcoming this December.
+
 
 
 <br>
@@ -75,6 +77,9 @@ I was a teaching assistant in two undergraduate courses, two graduate courses, a
 - Technological Innovation and Business Redesign
 - Topics in Management Information Systems
 - Information Systems Development Seminar
+
+I also have experience in mentoring underprivileged young students in a science program and mentoring high school students in an entrepreneurship camp.
+
 
 <br>
 <br>
