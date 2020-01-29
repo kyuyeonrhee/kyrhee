@@ -103,6 +103,6 @@ For more information, here is my [CV](https://kyuyeonrhee.github.io/kyrhee/pages
 
 
 <!-- [Instagram](https://www.instagram.com/kkyyeeeeee/)<br> -->
-[Email](ky.rhee@snu.ac.kr)<br>
+<a href="mailto:ky.rhee@snu.ac.kr> Email </a><br>
 [LinkedIn](https://www.linkedin.com/in/kyuyeon-rhee-69a22b133/?originalSubdomain=kr)<br>
 [Github](https://github.com/kyuyeonrhee)<br>
