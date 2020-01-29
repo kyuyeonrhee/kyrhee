@@ -88,7 +88,7 @@ I also have experience in mentoring underprivileged young students in a science 
 <br>
 
 
-For more information, here is my [CV](https://kyuyeonrhee.github.io/kyrhee/pages/9.%20Kyuyeon%20Rhee%20-%20Vitae%20-%20new.pdf).<br><br>
+For more information, here is my [CV](https://kyuyeonrhee.github.io/kyrhee/pages/kyuyeonrhee_vitae_new.pdf).<br><br>
 
 <!-- Email: ky.rhee@snu.ac.kr -->
 
