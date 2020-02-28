@@ -5,7 +5,7 @@ title: Kyuyeon Rhee
 <!-- description: Graduate Student of Management Information Systems -->
 ---
 
-<a href="https://imgur.com/T54HFq4"><img src="https://i.imgur.com/T54HFq4.png" style = "float: left; margin-right: 70px; margin-bottom: 60px; width: 250px; height: 315px;" title="source: imgur.com" /></a>  
+<!-- <a href="https://imgur.com/T54HFq4"><img src="https://i.imgur.com/T54HFq4.png" style = "float: left; margin-right: 70px; margin-bottom: 60px; width: 250px; height: 315px;" title="source: imgur.com" /></a>  
 <br>
 <br>
 <br>
@@ -105,4 +105,4 @@ For more information, here is my [CV](https://kyuyeonrhee.github.io/kyrhee/pages
 <!-- [Instagram](https://www.instagram.com/kkyyeeeeee/)<br> -->
 <a href="mailto:ky.rhee@snu.ac.kr"> Email </a><br>
 [LinkedIn](https://www.linkedin.com/in/kyuyeon-rhee-69a22b133/?originalSubdomain=kr)<br>
-[Github](https://github.com/kyuyeonrhee)<br> -->
+[Github](https://github.com/kyuyeonrhee)<br> --> -->
