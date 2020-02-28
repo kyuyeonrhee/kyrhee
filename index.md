@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Kyuyeon Rhee
 <!-- tagline: Graduate Student of Management Information Systems -->
@@ -105,4 +105,4 @@ For more information, here is my [CV](https://kyuyeonrhee.github.io/kyrhee/pages
 <!-- [Instagram](https://www.instagram.com/kkyyeeeeee/)<br> -->
 <a href="mailto:ky.rhee@snu.ac.kr"> Email </a><br>
 [LinkedIn](https://www.linkedin.com/in/kyuyeon-rhee-69a22b133/?originalSubdomain=kr)<br>
-[Github](https://github.com/kyuyeonrhee)<br>
+[Github](https://github.com/kyuyeonrhee)<br> -->
